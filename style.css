@@ -148,11 +148,11 @@ ul {
     opacity: .8;
 }
 
-/* NEWS CARDS */
+/*>>>>>>>>>> NEWS CARDS <<<<<<<<<<*/
 .news-cards {
 
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 20px;
     margin: 70px, 0;
     color: rgb(218, 218, 218);
@@ -451,6 +451,7 @@ ul {
         grid-template-columns: repeat(2, 1fr);
 
     }
+
 
     .cards-banner-one .content,
     .cards-banner-two .content {
